@@ -1,4 +1,4 @@
-# colossalai-venv-hortense
+# ai-venv-hortense
 
 two pairs of scripts for 
 * creating (if non-exisisting) and activating a virtual python environment with pyTorch and Colossalai: `env-<x>pu.sh`, where `x = g|c`, referring to resp. a gpu and a cpu environment.
